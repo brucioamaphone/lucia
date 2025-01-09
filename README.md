@@ -1,7 +1,7 @@
 # Lucia 🤖
 
 <div align="center">
-  <img src="./docs/static/img/lucia2.jpg" alt="Lucia Banner" width="100%" />
+  <img src="./docs/static/img/Lucia2.jpg" alt="Lucia Banner" width="100%" />
 </div>
 
 <div align="center">

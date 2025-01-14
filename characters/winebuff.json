@@ -1,7 +1,7 @@
 {
     "name": "maria",
     "clients": [],
-    "modelProvider": "together",
+    "modelProvider": "ollama",
     "settings": {
         "secrets": {},
         "voice": {
